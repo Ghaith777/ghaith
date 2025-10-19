@@ -1,0 +1,7 @@
+{
+  "name": "Copy of الصلاة هي الحياة",
+  "description": "An application to display prayer times for all countries of the world, in addition to remembrances and supplications.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
